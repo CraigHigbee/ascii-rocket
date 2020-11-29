@@ -1,5 +1,4 @@
-# ascii-rocket
-##ASCII Rocket
+# ASCII Rocket
 
 
 Type:
