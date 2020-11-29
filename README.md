@@ -1,2 +1,2 @@
 # ascii-rocket
-Ascii Rocket
+ASCII Rocket
