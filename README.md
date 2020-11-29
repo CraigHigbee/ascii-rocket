@@ -4,6 +4,6 @@ ASCII Rocket
 
 Type this:
 
->>>import rocket 
+">>>"import rocket 
 
->>>rocket.launch()
+">>>"rocket.launch()
