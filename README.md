@@ -2,8 +2,8 @@
 ASCII Rocket
 
 
-Type this:
+Type:
 
-">>>"import rocket 
+import rocket 
 
-">>>"rocket.launch()
+rocket.launch()
